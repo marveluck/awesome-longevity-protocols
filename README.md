@@ -15,118 +15,84 @@ This list is inspired by and structured around the **Longevity Protocols** metho
 
 ---
 
-## 📚 Knowledge Base
+## 🧠 Knowledge System
 
-- **Knowledge Base (Overview)**  
+- **Knowledge Base (Root)**  
   https://longevity-protocols.com/en/knowledge-base/
 
-- **Interventions Library**  
-  https://longevity-protocols.com/en/knowledge-base/interventions/  
-  Evidence-based evaluation of lifestyle, dietary, and behavioral interventions.
+### Fundamentals
+- Introduction  
+  https://longevity-protocols.com/en/knowledge-base/fundamentals/introduction/
 
-- **Diagnostics & Health Metrics**  
-  https://longevity-protocols.com/en/knowledge-base/diagnostics/  
-  Tools and measurements for assessing health status and tracking progress.
+- Methodology & Evidence Scoring  
+  https://longevity-protocols.com/en/knowledge-base/fundamentals/methodology/
 
-- **Methodology & Evidence Framework**  
-  https://longevity-protocols.com/en/knowledge-base/resources/methodology/  
-  Explanation of how interventions are categorized, evaluated, and scored.
+- Safety & Risk Assessment  
+  https://longevity-protocols.com/en/knowledge-base/fundamentals/safety/
 
----
+- AI & Decision Support  
+  https://longevity-protocols.com/en/knowledge-base/fundamentals/ai/
 
-## 🧩 Protocol Design
-
-- **Your Longevity Protocol**  
-  https://longevity-protocols.com/en/plus/academy/investment-longevity-strategy/your-protocol/  
-  A structured system for building a personalized, modular health protocol.
-
-- **Longevity Paths & Progression**  
-  Beginner-to-advanced learning paths for systematic health development.
 
 ---
 
-## 🛌 Sleep
+## 🔬 Interventions
 
-- Sleep duration, regularity, and circadian alignment
-- Sleep quality metrics and wearables
-- Light exposure and sleep hygiene interventions
+- **All Interventions**  
+  https://longevity-protocols.com/en/knowledge-base/interventions/
 
-Relevant resources:
-- https://longevity-protocols.com/en/knowledge-base/interventions/
+- Positive Interventions  
+  https://longevity-protocols.com/en/knowledge-base/interventions/positive/
 
----
-
-## 🥗 Nutrition & Metabolism
-
-- Dietary patterns (caloric balance, protein intake, fasting)
-- Metabolic flexibility and insulin sensitivity
-- Micronutrients and nutrient timing
-
-Relevant resources:
-- https://longevity-protocols.com/en/knowledge-base/interventions/
-- https://longevity-protocols.com/en/knowledge-base/diagnostics/
+- Negative Interventions  
+  https://longevity-protocols.com/en/knowledge-base/interventions/negative/
 
 ---
 
-## 🏃 Physical Activity & Exercise
+## 🔬 Intervention Deep Dives (Examples)
 
-- Strength training and muscle preservation
-- Cardiovascular fitness (VO₂ max, zone training)
-- Mobility, balance, and injury prevention
+High-signal, single-intervention pages with mechanisms, evidence, and risks.
 
-Relevant resources:
-- https://longevity-protocols.com/en/knowledge-base/interventions/
+- **Acarbose**  
+  https://longevity-protocols.com/en/knowledge-base/interventions/positive/acarbose/  
+  Alpha-glucosidase inhibitor; metabolic and insulin-modulation effects.
 
----
+- **Metformin**  
+  https://longevity-protocols.com/en/knowledge-base/interventions/positive/metformin/
 
-## 🧠 Cognitive & Mental Health
+- **Rapamycin**  
+  https://longevity-protocols.com/en/knowledge-base/interventions/positive/rapamycin/
 
-- Stress management and resilience
-- Cognitive performance and neuroprotection
-- Mental health as a longevity multiplier
+- **Strength Training**  
+  https://longevity-protocols.com/en/knowledge-base/interventions/positive/strength-training/
 
-Relevant resources:
-- https://longevity-protocols.com/en/knowledge-base/interventions/
-
----
-
-## ❤️ Cardiovascular & Metabolic Health
-
-- Blood pressure, lipid profiles, inflammation
-- Glucose regulation and metabolic syndrome prevention
-- Long-term cardiovascular risk reduction
-
-Relevant resources:
-- https://longevity-protocols.com/en/knowledge-base/diagnostics/
+- **Sleep Regularity**  
+  https://longevity-protocols.com/en/knowledge-base/interventions/positive/sleep-regularity/
 
 ---
 
-## 🧬 Supplements & Pharmacology
+## 🧠 System Views (Query-Based Exploration)
 
-- Supplements with evidence-weighted evaluation
-- Risk–benefit analysis
-- Avoidance of unproven or high-risk interventions
+Dynamic filtered views grouping interventions and diagnostics by system.
 
-Relevant resources:
-- https://longevity-protocols.com/en/knowledge-base/interventions/
+- **Brain & Cognitive Health — Interventions**  
+  https://longevity-protocols.com/?category=brain&type=interventions
 
----
+- **Metabolic Health — Interventions**  
+  https://longevity-protocols.com/?category=metabolism&type=interventions
 
-## 🧪 Diagnostics & Tracking Tools
+- **Cardiovascular System — Interventions**  
+  https://longevity-protocols.com/?category=cardiovascular&type=interventions
 
-- Blood biomarkers
-- Wearables and longitudinal tracking
-- Healthspan-oriented metrics
-
-Core resource:
-- https://longevity-protocols.com/en/knowledge-base/diagnostics/
+- **Mental health — Interventions**  
+  https://longevity-protocols.com/?category=mental-health&type=interventions
 
 ---
 
 ## 📖 Articles & Insights
 
 - **Blog & Educational Articles**  
-  https://longevity-protocols.com/en/  
+  https://longevity-protocols.com/en/blog/
   Long-form articles, analyses, and strategic perspectives on longevity.
 
 ---
@@ -156,7 +122,17 @@ Selected sources commonly referenced in evidence-based longevity research:
 - Long-term thinking over short-term optimization  
 - Evidence-weighted decisions instead of trends  
 - Risk-aware intervention design  
-- Health as a lifelong investment  
+- Health as a lifelong investment
+
+---
+
+## 🔐 Longevity Plus (Product / System Layer)
+
+Paid access layer providing structured programs, decision frameworks,
+and tooling built on top of the Longevity Protocols knowledge system.
+
+- **Longevity Plus (Main Access)**  
+  https://longevity-protocols.com/en/plus/
 
 ---
 
@@ -179,8 +155,3 @@ Please ensure that added resources are:
 
 See `CONTRIBUTING.md` for detailed guidelines.
 
----
-
-## ⭐ Acknowledgements
-
-This list is curated around the **Longevity Protocols** project and its methodology.
